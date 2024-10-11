@@ -1,0 +1,539 @@
+.numbers {
+    background-color: #a82d49;
+    /* padding: 0px 0; */
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+}
+
+.numbers .row {
+    margin: 25px 0;
+}
+
+.numbers h2 {
+    font-size: 45px;
+    margin: 10px 0;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.numbers h6 {
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 1px;
+
+}
+
+/* ======================================== */
+.pride {
+    background-color: transparent;
+    padding: 25px 0;
+    max-width: 100%;
+    height: 150;
+    overflow: hidden;
+    margin-top: 50px;
+}
+
+.pride_img img {
+    border-radius: 10px;
+}
+
+.pride h2 {
+    font-size: 35px;
+    width: 80%;
+    margin: 10px 0;
+    color: #682838;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 50px;
+
+}
+
+.pride p {
+    font-size: 16px;
+    line-height: 26px;
+    color: #333;
+    margin-top: 15px;
+}
+
+.pride .btn {
+    background-color: #a82d49;
+    border: 1px solid #a82d49;
+    box-sizing: border-box;
+    width: 140px;
+    height: 40px;
+    text-align: center
+}
+
+.pride .btn a {
+    color: white;
+    display: block;
+    text-decoration: none;
+    display: block;
+
+
+}
+
+.pride .btn:hover {
+
+    background-color: rgb(235, 233, 233);
+    border: 1px solid #a82d49;
+
+
+}
+
+.pride .btn:hover a{
+    color: #a82d49;
+}
+
+/* ..................................... */
+.ingrediants {
+    margin-top: 50px;
+    max-width: 1005;
+    height: auto;
+    text-align: left;
+    /* overflow: hidden; */
+    margin-left: 90px;
+
+
+}
+
+.ingrediants h2 {
+    font-size: 33px;
+    width: 80%;
+    margin: 10px 0;
+    color: #91344b;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 50px;
+}
+
+.ingrediants p {
+    font-size: 16px;
+    line-height: 26px;
+    color: #333;
+    margin-top: 15px;
+    width: 400px;
+}
+
+.ingrediants ul {
+    padding: 0;
+}
+
+.ingrediants ul li {
+    list-style-type: square;
+    color: #333;
+    margin-top: 10px;
+}
+
+.ingrediants button {
+    background-color: #a82d49;
+    border: 1px solid #a82d49;
+    box-sizing: border-box;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+
+}
+
+.ingrediants button .lin {
+    color: white;
+
+    text-decoration: none;
+    display: block;
+
+
+}
+
+.ingrediants button:hover {
+ background-color: transparent;
+}
+
+.ingrediants button:hover .lin {
+    color: #a82d49;
+}
+
+/* ================================================== */
+.testimonials {
+    background: url('https://demo.tutsflow.com/foodera/images/parallax/1.jpg');
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    padding: 30px;
+    text-align: center;
+
+
+
+}
+
+.testimonials h2 {
+    font-size: 33px;
+    width: 100%;
+    margin: 10px 0;
+    color: #91344b;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 50px;
+}
+
+.testimonials p {
+    font-size: 15px;
+    color: #666;
+    line-height: 32px;
+}
+
+.testimonials a {
+    color: #a82d49;
+    font-size: 15px;
+    margin: 20px 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.testimonials .row {
+    margin: 50px 0;
+}
+
+.testimonials a {
+    color: #36171f;
+    text-decoration: none;
+}
+
+.testimonials a:hover {
+    color: #eb3d65;
+}
+
+/* ----------------------------------------- */
+.blog {
+    margin-top: 50px;
+    padding: 25px 0;
+    /* width: 1000px; */
+    height: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.blog .rowz {
+    text-align: center;
+    margin: 25px 0;
+
+}
+
+.blog h2 {
+    font-size: 40px;
+    width: 100%;
+    margin: 10px 0;
+    color: #793a46;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 50px;
+    font-weight: bold;
+}
+
+.blog p {
+    font-size: 18px;
+    line-height: 26px;
+    color: #9b9797;
+    margin-top: 15px;
+
+
+}
+
+/* .blog .box{
+    width:100% ;
+    max-width: 100%;
+    /* height: auto; */
+/* border: 1px solid #f6f6f6f6; */
+/* box-sizing: border-box; */
+/* margin-top: 10px; */
+/* border-radius: 5px; */
+
+/* } */
+.blog img {
+    max-width: 100%;
+
+}
+
+.blog h5 {
+    color: #a82d49;
+    font-size: 22px;
+    margin: 15px 0;
+    font-weight: bold;
+}
+
+.blog span {
+    display: block;
+    color: #444;
+    font-size: 14px;
+    margin: 10px 0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+}
+
+.blog h6 {
+    color: #a82d49;
+    font-size: 20px;
+
+}
+
+.blog button {
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    background-color: #b14458;
+    border: 1px solid #b14458;
+    box-sizing: border-box;
+    margin: 10px 0;
+    transition: 0.3s ease-in-out;
+}
+
+.blog button a {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+
+.blog button:hover {
+    background-color: transparent;
+}
+
+.blog button:hover a {
+    color: #793a46;
+}
+
+/* ----------------------------------------- */
+.slider{
+    background-color: #a82d49;
+    border: 1px solid #a82d49;
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    padding: 50px 0;
+    height: auto;
+    margin: 50px 0;
+}
+.slider img{
+    border-radius: 50%;
+     width: 100px;
+    height: 100px; 
+    margin-bottom: 240px;
+}
+.slider .carousel-caption p{
+    color: #777575;
+    font-size: 17px;
+    line-height: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+  
+
+}
+.slider .carousel-caption  h5{
+    display: block;
+    margin: 15px;
+ 
+    text-transform: uppercase;
+    font-size: 17px;
+    color: #a82d49;
+}
+.slider .Carousel{
+   background-color: #fff;
+   margin: 40px 0;
+   border:1px solid #fff ;
+   box-sizing: border-box;
+   border-radius: 10px;
+   padding:25px 0 ;
+   height: auto;
+}
+.hh1{
+    color: #fff;
+
+}
+.slider .carousel-indicators {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin-right: 15%;
+    margin-bottom: 1rem;
+    margin-left: 15%;
+  
+}
+.slider .carousel-indicators button{
+    width: 15px;
+    height: 15px;
+    background-color: #a15d6e !important;
+    border:1px solid  #eb3d65;
+    margin: 5px;
+    border-radius: 50px;
+}
+/* ////////////////////// */
+
+.asked{
+    margin-top: 70px;
+}
+.asked h1{
+    text-align: center;
+    color: #47121f;
+}
+.asked h3{
+    font-size: 18px;
+    color: #a82d49;
+    /* margin: 23px 0; */
+    margin-top: 30px;
+}
+.asked p{
+    font-size: 16px;
+    color: #797777;
+}
+
+/* -------------------------------------- */
+.parallax{
+    margin-top: 70px;
+    background: url('https://demo.tutsflow.com/foodera/images/parallax/2.jpg')
+    repeat fixed 100%;
+    background-size: cover;
+   
+
+}
+
+
+.parallax-inner{
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+.parallax-inner p{
+   
+     font-weight: bold;
+    color: #000000;
+    font-size: 25px;
+    margin-left: 20px;
+    bottom: 40px;
+  
+
+ } 
+
+ .parallax-inner button{
+   
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    background-color: #b14458;
+    border: 1px solid #b14458;
+    box-sizing: border-box;
+    bottom: 40px;
+    transition: 0.3s ease-in-out;
+   /* margin-left: 600px; */
+}
+.parallax-inner button a {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+
+.parallax-inner button:hover {
+    background-color: transparent;
+}
+
+.parallax-inner button:hover a {
+    color: #793a46;
+}
+/* ------------------------------- */
+.lasta{
+    text-align: center;
+    margin-top: 70px;
+}
+.lasta h1{
+    color: #47121f;
+    font-weight: bold;
+    line-height: 60px;
+
+}
+.lasta p{
+    font-size: 18px;
+    color: #5e5b5b;
+}
+
+form .email{
+    width: 400px;
+    height: 40px;
+    margin: 10px;
+
+}
+form ::placeholder{
+   
+    color: #817d7e;
+    font-size: 15px;
+    border: none;
+   padding: 25px;
+}
+.lasta button{
+   
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    background-color: #b14458;
+    border: 1px solid #b14458;
+    box-sizing: border-box;
+    transition: 0.3s ease-in-out;
+    color: #fff;
+  
+}
+.lasta button:hover {
+    background-color: transparent;
+    color: #682838;
+}
+
+.footer{
+    margin-top: 70px;
+    background-color: #b45466;
+    width: 100%;
+    height: 250px;
+    text-align: center;
+    line-height: 50px;
+
+}
+.footer  .lik{
+    margin-top: 90px;
+
+}
+.footer  .lik a{
+    color: #fff;
+    font-size: 19px ;
+    margin-top: 100px;
+    text-decoration: none;
+    margin: 5px;
+   
+   
+}
+
+.footer .social{
+    font-size: 25px;
+    color: #fff;
+   
+  
+
+}
+.footer .social .ftyi{
+    margin: 5px;
+}
+
+
+.footer p{
+    color: #fff;
+    font-size: 13px;
+   
+    
+}
+/* ==================== */
+
+
+
